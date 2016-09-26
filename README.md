@@ -2,7 +2,7 @@
 
 Simulate Deep Security's coverage for high urgency vulnerability reported by [Vuls](https://github.com/future-architect/vuls).
 
-(This tool is the fork from [Amazon Inspector with DeepSecurity](https://github.com/deep-security/amazon-inspector).)
+(This tool is refer to [Amazon Inspector with DeepSecurity](https://github.com/deep-security/amazon-inspector) and [DeepSecurity SDK](https://github.com/deep-security/deep-security-py).)
 
 ----
 
